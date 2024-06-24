@@ -1,5 +1,5 @@
 #hoppybara-game
-Hopping capybara game inspired by the pixelated dino game <img align="center" src="https://github.com/Z0ntaro/hoppybara-game/blob/ee02fcb558f97c448bfc13a71186180ccded39fc/img/capybara.png" alt="dino" height="30" width="120" /> X <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhowlongtobeat.com%2Fgame%2F95971&psig=AOvVaw2hH8joHlCrRifJIy2ko1PF&ust=1719329057820000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICblP7F9IYDFQAAAAAdAAAAABAE" alt="capy" height="30" width="120" />
+Hopping capybara game inspired by the pixelated dino game <img align="center" src="https://github.com/Z0ntaro/hoppybara-game/blob/ee02fcb558f97c448bfc13a71186180ccded39fc/img/capybara.png" alt="capy" height="120" width="40" /> X <img align="center" src="https://play.google.com/store/apps/details?id=com.deerslab.dinoTREX&hl=en_US" alt="dino" height="120" width="40" />
 <hr>
 <b>Fun mini game using html,css,js</b>
 <hr>
